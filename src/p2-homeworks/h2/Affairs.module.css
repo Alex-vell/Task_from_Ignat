@@ -1,3 +1,38 @@
 .someClass {
 
 }
+.affair {
+    width: 300px;
+    display: grid;
+    grid-template-areas: 'n p b';
+    grid-template-columns: 1fr 1fr 1fr;
+    padding: 10px;
+    margin-left: 10px;
+}
+.name {
+    grid-area: n;
+    color: cadetblue;
+}
+.priority {
+    grid-area: p;
+}
+.buttonX {
+    grid-area: b;
+    background-color: burlywood;
+    color: darkred;
+}
+
+
+.buttonFiltCont {
+    padding: 10px;
+    color: gray;
+    width: 300px;
+}
+.buttonFilter {
+    width: 50px;
+    margin-left: 10px;
+    margin-right: 10px;
+    background-color: burlywood;
+    color: darkred;
+}
+

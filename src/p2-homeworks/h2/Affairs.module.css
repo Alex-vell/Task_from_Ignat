@@ -35,4 +35,12 @@
     background-color: burlywood;
     color: darkred;
 }
-
+.priorityHigh{
+    color: red;
+}
+.priorityLow{
+    color: green;
+}
+.priorityMiddle{
+    color: yellow;
+}

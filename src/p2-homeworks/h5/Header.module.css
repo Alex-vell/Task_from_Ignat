@@ -1,0 +1,27 @@
+.item a {
+    text-decoration: none;
+    font-weight: bold;
+    padding: 10px;
+    color: gray;
+}
+.item a.active {
+    color: darkblue;
+}
+.nav {
+    display: flex;
+    width: 350px;
+    transition-duration: 300ms;
+    transform: translate(-240px);
+}
+.nav:hover {
+    transition-duration: 300ms;
+    transform: translate(5px);
+}
+.level {
+    width: 70px;
+    height: 30px;
+    padding: 5px;
+    background-color: gray;
+    border-radius: 5px;
+    color: white;
+}

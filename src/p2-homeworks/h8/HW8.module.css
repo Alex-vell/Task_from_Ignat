@@ -1,0 +1,11 @@
+
+.table{
+    display: flex;
+    width: 300px;
+    justify-content: space-between;
+    margin: 5px 0 0 10px;
+}
+
+.button{
+    display: inline-block;
+}

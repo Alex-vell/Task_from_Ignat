@@ -8,10 +8,10 @@ import HW6 from "../../h6/HW6";
 export function PreJunior() {
     return (
         <div>
-            {/*<HW1/>
+            <HW1/>
             <HW2/>
             <HW3/>
-            <HW4/>*/}
+            <HW4/>
             <HW6/>
 
         </div>

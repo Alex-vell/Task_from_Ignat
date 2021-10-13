@@ -1,0 +1,15 @@
+.radio {
+    vertical-align: top;
+    width: 17px;
+    height: 17px;
+    margin: 0px 3px 0px 10px;
+    cursor: pointer;
+}
+
+.radio:checked {
+    opacity: 1;
+}
+
+.label {
+    cursor: pointer;
+}

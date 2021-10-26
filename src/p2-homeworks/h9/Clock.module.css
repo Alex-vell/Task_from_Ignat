@@ -1,0 +1,26 @@
+.clock {
+    margin: 0 auto;
+    height: 100px;
+    width: 300px;
+    border: 2px solid slategray;
+    border-radius: 40px;
+}
+
+.blockData {
+    height: 40px;
+    margin-bottom: 10px;
+    margin-top: 5px;
+}
+
+.stringData {
+    display: flex;
+    justify-content: center;
+    height: 20px;
+    font-family: Technic;
+    font-weight: bold;
+}
+
+.blockButton {
+    display: flex;
+    justify-content: center;
+}

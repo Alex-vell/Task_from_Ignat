@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/Task_from_Ignat/static/css/main.a7758d9a.chunk.css",
-    "main.js": "/Task_from_Ignat/static/js/main.1c946262.chunk.js",
-    "main.js.map": "/Task_from_Ignat/static/js/main.1c946262.chunk.js.map",
+    "main.css": "/Task_from_Ignat/static/css/main.64bc4ddd.chunk.css",
+    "main.js": "/Task_from_Ignat/static/js/main.5c36c185.chunk.js",
+    "main.js.map": "/Task_from_Ignat/static/js/main.5c36c185.chunk.js.map",
     "runtime-main.js": "/Task_from_Ignat/static/js/runtime-main.c0c84a38.js",
     "runtime-main.js.map": "/Task_from_Ignat/static/js/runtime-main.c0c84a38.js.map",
-    "static/js/2.93680a0d.chunk.js": "/Task_from_Ignat/static/js/2.93680a0d.chunk.js",
-    "static/js/2.93680a0d.chunk.js.map": "/Task_from_Ignat/static/js/2.93680a0d.chunk.js.map",
+    "static/js/2.659440b4.chunk.js": "/Task_from_Ignat/static/js/2.659440b4.chunk.js",
+    "static/js/2.659440b4.chunk.js.map": "/Task_from_Ignat/static/js/2.659440b4.chunk.js.map",
     "index.html": "/Task_from_Ignat/index.html",
-    "static/css/main.a7758d9a.chunk.css.map": "/Task_from_Ignat/static/css/main.a7758d9a.chunk.css.map",
-    "static/js/2.93680a0d.chunk.js.LICENSE.txt": "/Task_from_Ignat/static/js/2.93680a0d.chunk.js.LICENSE.txt",
+    "static/css/main.64bc4ddd.chunk.css.map": "/Task_from_Ignat/static/css/main.64bc4ddd.chunk.css.map",
+    "static/js/2.659440b4.chunk.js.LICENSE.txt": "/Task_from_Ignat/static/js/2.659440b4.chunk.js.LICENSE.txt",
     "static/media/Spinner-3.b51df3f3.gif": "/Task_from_Ignat/static/media/Spinner-3.b51df3f3.gif"
   },
   "entrypoints": [
     "static/js/runtime-main.c0c84a38.js",
-    "static/js/2.93680a0d.chunk.js",
-    "static/css/main.a7758d9a.chunk.css",
-    "static/js/main.1c946262.chunk.js"
+    "static/js/2.659440b4.chunk.js",
+    "static/css/main.64bc4ddd.chunk.css",
+    "static/js/main.5c36c185.chunk.js"
   ]
 }

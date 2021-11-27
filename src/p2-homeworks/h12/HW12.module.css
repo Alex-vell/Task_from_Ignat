@@ -4,6 +4,7 @@
 
 .dark-text {
     color: aliceblue;
+    font-weight: bold;
 }
 
 .red {
@@ -12,6 +13,7 @@
 
 .red-text {
     color: aqua;
+    font-weight: bold;
 }
 
 .some {
@@ -20,4 +22,23 @@
 
 .some-text {
     color: darkslateblue;
+    font-weight: bold;
+}
+
+.blue {
+    background-color: #6d85e0;
+}
+
+.blue-text {
+    color: white;
+    font-weight: bold;
+}
+
+.violet {
+    background-color: darkviolet;
+}
+
+.violet-text {
+    color: #cfdae0;
+    font-weight: bold;
 }
